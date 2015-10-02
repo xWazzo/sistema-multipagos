@@ -1,0 +1,23 @@
+.panel-details p {
+  display: inline-block;
+  margin-right: 15px;
+}
+.logo,
+.navbar-logo {
+  background-image: url("../img/delvalle-logo.jpg") !important;
+  border: 0 !important;
+  display: inline-block;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: bottom;
+  margin-bottom: -5px;
+}
+.logo {
+  width: 50px !important;
+  height: 30px !important;
+}
+.navbar-logo {
+  width: 50px !important;
+  height: 20px !important;
+}
